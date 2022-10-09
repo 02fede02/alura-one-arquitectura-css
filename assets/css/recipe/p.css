@@ -1,0 +1,6 @@
+.recipe__content--p{
+    font-size: 1.1875rem;
+    margin: 0 .5rem 0.5rem 0.5rem;
+    text-align: justify;
+    flex-grow: 2;
+}

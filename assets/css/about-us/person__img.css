@@ -1,0 +1,8 @@
+.person__img{
+    text-align: center;
+}
+
+.person__img img{
+    border-radius: 50%;
+    width: 80%;
+}
