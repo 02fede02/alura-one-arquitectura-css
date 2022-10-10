@@ -2,8 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70vh;
-    /* width: 100%; */
+    height: calc(100vh - 72px);
     background: url("/assets/img/banner.jpg") no-repeat center center;
     background-size: cover;
 }
