@@ -6,3 +6,12 @@
     padding: 5rem 0;
     background-color: #E5E5E5;
 }
+
+@media screen and (max-width: 768px) {
+    .recipes{
+        flex-direction: column;
+        padding: 1rem auto;
+        gap: 1rem;
+        align-items: center;
+    }   
+}

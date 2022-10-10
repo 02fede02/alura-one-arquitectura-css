@@ -1,3 +1,9 @@
 .nav__ul{
     display: flex;
 }
+
+@media screen and (max-width: 768px) {
+    .nav__ul{
+        font-size: 0.75rem;
+    }   
+}

@@ -6,3 +6,9 @@
     background: url("/assets/img/banner.jpg") no-repeat center center;
     background-size: cover;
 }
+
+@media screen and (max-width: 768px) {
+    .banner{
+        height: (60vh - 72px);
+    }   
+}

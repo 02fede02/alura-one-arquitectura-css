@@ -6,3 +6,9 @@
     padding: 2rem 0 .5rem 0;
     color: #8D0606;
 }
+
+@media screen and (max-width: 768px) {
+    .about-us__h3{
+        font-size: 2rem;
+    }   
+}

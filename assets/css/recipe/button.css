@@ -7,3 +7,9 @@
     margin: 1rem 0 1rem 0.5rem;
     vertical-align: baseline;
 }
+
+@media screen and (max-width: 768px) {
+    .recipe__content--button{
+        font-size: 1rem;
+    }   
+}

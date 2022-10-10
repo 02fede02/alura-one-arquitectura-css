@@ -4,3 +4,9 @@
     font-size: 1.75rem;
     color: #8C8888;
 }
+
+@media screen and (max-width: 768px) {
+    .about-us__p{
+        font-size: 1.25rem;
+    }   
+}

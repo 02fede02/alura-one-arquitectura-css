@@ -4,3 +4,10 @@
     padding-top: 1rem;
     padding-bottom: 5rem;
 }
+
+@media screen and (max-width: 768px) {
+    .persons{
+        flex-direction: column;
+        gap: 2rem;
+    }    
+}
